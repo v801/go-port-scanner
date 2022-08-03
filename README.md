@@ -1,6 +1,6 @@
 # go-port-scanner
 
-Simple TCP (for now) port scanner.  Currently it only takes an upper port range value from user and scans TCP ports 1-[upperRange].
+Simple TCP (for now) port scanner.  Currently it only takes an upper port range value from user and scans TCP ports 1-[upperRange] on localhost.
 
 Project for learning some Go and PenTesting :jack_o_lantern:
 
